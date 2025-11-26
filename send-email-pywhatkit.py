@@ -52,7 +52,7 @@ def main():
         html = body_html(x[1],x[2])
         pw.send_hmail(
           email_sender = 'asephendra2018@gmail.com',
-          password = 'ndlaqohjyvukhhlr',
+          password = 'xxxxxxxxxxxx',
           subject = ' Penawaran Jasa Kantor Akuntan Publik',
           html_code = html,
           email_receiver = x[3]
